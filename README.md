@@ -1,7 +1,6 @@
 # PartyPlannerJakarta
 
-Ini adalah project yang saya buat untuk menyelesaikan tugas akhir. Proyek tugas akhir ini mengembangkan sistem manajemen event berbasis web untuk pengelolaan pemesanan dekorasi, pencatatan data klien, serta analisis KPI menggunakan PHP, MySQL, dan Bootstrap, dengan fokus pada peningkatan efisiensi manajemen event dan kepuasan pengguna.
-
+Proyek tugas akhir ini mengembangkan sistem manajemen event berbasis web untuk pengelolaan pemesanan dekorasi, pencatatan data klien, serta analisis KPI menggunakan PHP, MySQL, dan Bootstrap, dengan fokus pada peningkatan efisiensi manajemen event dan kepuasan pengguna. Dalam sistem ini saya menggunakan Google Form, Google Form digunakan sebagai form input data pemesanan dekorasi serta form input data penilaian yang diisi oleh klien, yang kemudian terintegrasi ke dalam database untuk diproses lebih lanjut.
 
 ![image](https://github.com/user-attachments/assets/c253d2e4-64f2-48ff-9409-64c7a3993549)
 
